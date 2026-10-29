@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_price
+1,Fone de Ouvido Bluetooth,Eletrônicos,1414.85
+2,Carregador Portátil,Eletrônicos,88.9
+3,Smartwatch,Eletrônicos,1278.25
+4,Caixa de Som,Eletrônicos,1319.95
+5,Mouse Sem Fio,ELETRÔNICOS,347.9
+6,Teclado Gamer,Eletrônicos,930.04
+7,Webcam Full HD,ELETRÔNICOS,323.54
+8,Cabo USB-C,Eletrônicos ,618.04
+9,Smart TV 43,Eletrônicos,986.95
+10,Tablet 10 Polegadas,Eletrônicos,1186.51
+11,Air Fryer,Casa,482.45
+12,Jogo de Panelas,CASA,166.42
+13,Jogo de Lençol,Casa ,249.95
+14,Cafeteira Elétrica,Casa,167.42
+15,Liquidificador,Casa,393.71
+16,Ventilador de Mesa,Casa,70.48
+17,Toalha de Banho,Casa,536.57
+18,Organizador Multiuso,Casa,36.88
+19,Luminária de Mesa,Casa,235.83
+20,Garrafa Térmica,Casa,210.39
+21,Camiseta Básica,Moda,150.72
+22,Calça Jeans,Moda,297.67
+23,Jaqueta Corta-Vento,Moda,161.78
+24,Tênis Casual,Moda,202.57
+25,Vestido Midi,Moda,81.15
+26,Bermuda de Sarja,Moda ,178.08
+27,Bolsa de Ombro,Moda,345.89
+28,Mochila Urbana,Moda,48.72
+29,Boné Aba Curva,Moda,215.89
+30,Kit 6 Pares de Meias,Moda,29.48
+31,Tênis de Corrida,Esporte,188.28
+32,Bola de Futebol,Esporte ,739.61
+33,Halteres 5kg,Esporte,759.97
+34,Tapete de Yoga,Esporte,330.42
+35,Corda de Pular,Esporte,243.46
+36,Garrafa Esportiva,Esporte,575.85
+37,Camisa Dry Fit,Esporte,618.35
+38,Luva de Treino,Esporte,350.39
+39,Kit Faixas Elásticas,Esporte,333.78
+40,Bicicleta Ergométrica,Esporte,519.62
+41,Perfume Importado,Beleza,222.0
+42,Kit Shampoo e Condicionador,Beleza,73.78
+43,Hidratante Corporal,Beleza,47.18
+44,Protetor Solar FPS 50,Beleza,45.42
+45,Base Líquida,Beleza,369.56
+46,Batom Matte,Beleza,390.11
+47,Secador de Cabelo,Beleza,74.82
+48,Chapinha,Beleza,140.8
+49,Paleta de Sombras,BELEZA,240.78
+50,Sérum Facial,Beleza,308.84
